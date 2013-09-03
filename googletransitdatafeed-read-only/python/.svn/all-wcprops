@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/1715/trunk/python
+END
+feedvalidator.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1521/trunk/python/feedvalidator.py
+END
+feedvalidator_googletransit.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1498/trunk/python/feedvalidator_googletransit.py
+END
+schedule_viewer.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1648/trunk/python/schedule_viewer.py
+END
+location_editor.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1139/trunk/python/location_editor.py
+END
+unusual_trip_filter.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1290/trunk/python/unusual_trip_filter.py
+END
+merge.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1688/trunk/python/merge.py
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/923/trunk/python/INSTALL
+END
+kmlparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1199/trunk/python/kmlparser.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1530/trunk/python/setup.py
+END
+kmlwriter.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1699/trunk/python/kmlwriter.py
+END
+shape_importer.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1199/trunk/python/shape_importer.py
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/923/trunk/python/COPYING
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1530/trunk/python/MANIFEST.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/923/trunk/python/README
+END

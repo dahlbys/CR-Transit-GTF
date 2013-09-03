@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1013/trunk/python/test/data/invalid_route_agency
+END
+trips.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/923/trunk/python/test/data/invalid_route_agency/trips.txt
+END
+routes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/923/trunk/python/test/data/invalid_route_agency/routes.txt
+END
+stop_times.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1013/trunk/python/test/data/invalid_route_agency/stop_times.txt
+END
+agency.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/923/trunk/python/test/data/invalid_route_agency/agency.txt
+END
+stops.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/923/trunk/python/test/data/invalid_route_agency/stops.txt
+END
+calendar.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/923/trunk/python/test/data/invalid_route_agency/calendar.txt
+END
+calendar_dates.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/923/trunk/python/test/data/invalid_route_agency/calendar_dates.txt
+END

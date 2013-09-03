@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1671/trunk/java/Transxchange2GoogleTransit
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1642/trunk/java/Transxchange2GoogleTransit/NOTICE
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/923/trunk/java/Transxchange2GoogleTransit/LICENSE
+END
+validate.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1239/trunk/java/Transxchange2GoogleTransit/validate.sh
+END
+ReleaseNotes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1671/trunk/java/Transxchange2GoogleTransit/ReleaseNotes.txt
+END
+validate.bat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/923/trunk/java/Transxchange2GoogleTransit/validate.bat
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1238/trunk/java/Transxchange2GoogleTransit/build.xml
+END

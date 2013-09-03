@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/1681/trunk/python/test
+END
+testtransitfeed.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1664/trunk/python/test/testtransitfeed.py
+END
+testfeedvalidator.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1521/trunk/python/test/testfeedvalidator.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1521/trunk/python/test/util.py
+END
+testgoogletransitextension.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1650/trunk/python/test/testgoogletransitextension.py
+END
+testexamples.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1393/trunk/python/test/testexamples.py
+END
+testmerge.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1351/trunk/python/test/testmerge.py
+END
+testunusual_trip_filter.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1139/trunk/python/test/testunusual_trip_filter.py
+END
+testkmlparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1319/trunk/python/test/testkmlparser.py
+END
+testkmlwriter.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1251/trunk/python/test/testkmlwriter.py
+END
+testshapelib.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1251/trunk/python/test/testshapelib.py
+END

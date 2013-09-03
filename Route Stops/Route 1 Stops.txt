@@ -1,0 +1,694 @@
+
+
+
+
+
+
+1
+out
+Lot 44
+SE
+concrete pad
+
+0.0
+2
+out
+2nd St & 9th Ave (railroad tracks)
+SE
+concrete pad
+
+0.2
+3
+out
+Diagonal Dr & 1st St
+SW
+corner sidewalk
+
+0.6
+4
+out
+1st St across from 6th Ave (Police Station)
+SW
+concrete pad
+
+0.7
+5
+out
+1st St across from 4th Ave
+SW
+grass to sidewalk
+
+0.8
+6
+out
+2nd Ave & 2nd St
+SW
+corner sidewalk
+
+1.1
+7
+out
+2nd Ave & L St
+SW
+concrete pad
+
+1.2
+8
+out
+2nd Ave & 5th St
+SW
+corner sidewalk
+
+1.3
+9
+out
+2nd Ave & 7th St
+SW
+corner sidewalk
+
+1.4
+10
+out
+2nd Ave & 9th St railroad tracks
+SW
+gravel to sidewalk
+
+1.6
+11
+out
+10th St & 1st Ave
+SW
+concrete pad
+
+1.7
+12
+out
+10th St & B Ave
+NW
+concrete pad
+
+1.9
+13
+out
+10th St & C Ave (Salvation Army)
+NW
+corner sidewalk
+
+2.0
+14
+out
+10th St & E Ave
+NW
+corner sidewalk
+
+2.1
+15
+out
+E Ave & 13th St
+NW
+corner sidewalk
+
+2.3
+16
+out
+15th St & F Ave
+NW
+grass to sidewalk
+
+2.4
+17
+out
+F Ave & 10th St
+NW
+corner sidewalk
+
+2.7
+18
+out
+F Ave & 8th St
+NW
+corner sidewalk
+
+2.8
+19
+out
+Ellis Blvd & G Ave
+NW
+corner sidewalk
+
+3.0
+20
+out
+Ellis Blvd & I Ave
+NW
+corner sidewalk
+
+3.1
+21
+out
+Ellis Blvd & K Ave
+NW
+concrete pad
+
+3.3
+22
+out
+Ellis Blvd & L Ave
+NW
+corner sidewalk
+
+3.4
+23
+out
+Ellis Blvd & M Ave
+NW
+corner sidewalk
+
+3.5
+24
+out
+Ellis Blvd & O Ave
+NW
+corner sidewalk
+
+3.6
+25
+out
+Ellis Blvd & Penn Ave
+NW
+grass to sidewalk
+
+3.8
+26
+out
+Ellis Ln & 8th St (Ellis Park)
+NW
+park driveway
+
+4.1
+27
+out
+8th St & Penn Ave
+NW
+grass to sidewalk
+
+4.3
+28
+out
+O Ave & 9th St
+NW
+grass to sidewalk
+
+4.5
+29
+out
+O Ave & 11th St
+NW
+corner sidewalk
+
+4.7
+30
+out
+O Ave & 13th St (far-side)
+NW
+grass, no sidewalk
+
+4.8
+31
+out
+O Ave & 16th St
+NW
+grass, no sidewalk
+
+5.0
+32
+out
+O Ave & 18th St
+NW
+corner sidewalk
+
+5.2
+33
+out
+O Ave & 21st St
+NW
+grass to sidewalk
+
+5.3
+34
+out
+O Ave & 23rd St
+NW
+grass to sidewalk
+
+5.5
+35
+out
+O Ave & 26th St
+NW
+grass to sidewalk
+
+5.6
+36
+out
+O Ave & 30th St (Imperial Apts)
+NW
+corner sidewalk
+
+5.9
+37
+out
+O Ave & Hillside Dr
+NW
+grass to sidewalk
+
+6.0
+38
+out
+O Ave & Edgewood Rd
+NW
+corner sidewalk
+
+6.1
+39
+out
+Rogers Rd & Rogers Rd (Westgate Apts)
+NW
+grass, no sidewalk
+
+6.4
+40
+out
+Rogers Rd & Greenlefe Dr
+NW
+grass to sidewalk
+
+6.6
+41
+out
+Wiley Blvd & M Ave (far-side)
+NW
+grass, no sidewalk
+
+6.8
+42
+out
+Wiley Blvd & Cedarcrest Ct
+NW
+grass, no sidewalk
+
+7.0
+43
+out
+Wiley Blvd & F Ave
+NW
+grass, no sidewalk
+
+7.3
+44
+out
+3703 F Ave (Weaver Rd)
+NW
+gravel shoulder, no sidewalk
+
+7.6
+45
+out
+F Ave & Edgewood Rd (before the turn lane)
+NW
+grass, no sidewalk
+
+7.8
+46
+out
+3131 F Ave (West Ridge Care Center)
+NW
+gravel shoulder, grass to sidewalk
+
+8.0
+47
+out
+F Ave across from 29th St
+NW
+gravel shoulder, grass to sidewalk
+
+8.1
+48
+out
+F Ave & 27th St
+NW
+gravel shoulder, no sidewalk
+
+8.2
+49
+out
+F Ave & Westwood Dr
+NW
+gravel shoulder, no sidewalk
+
+8.5
+50
+out
+Westwood Dr & E Ave
+NW
+grass, no sidewalk
+
+8.6
+51
+in
+E Ave & 24th St
+NW
+corner sidewalk
+
+8.7
+52
+in
+E Ave & 27th St
+NW
+corner sidewalk
+
+8.8
+53
+in
+2918 E Ave (Ridgeview)
+NW
+grass to sidewalk
+
+9.0
+54
+in
+3100 E Ave
+NW
+grass to sidewalk
+
+9.1
+55
+in
+E Ave & Edgewood Rd
+NW
+corner sidewalk
+
+9.2
+56
+in
+Edgewood Rd & F Ave (Casey's)
+NW
+grass, no sidewalk
+
+9.3
+57
+in
+Edgewood Rd & H Ave
+NW
+grass, no sidewalk
+
+9.4
+58
+in
+Edgewood Rd & Waveland Dr
+NW
+grass, no sidewalk
+
+9.6
+59
+in
+Edgewood Rd & Westwood Dr
+NW
+grass, no sidewalk
+
+9.8
+60
+in
+1411 Edgewood Rd (Woodridge Apts)
+NW
+grass to sidewalk
+
+9.9
+61
+in
+Edgewood Rd & O Ave
+NW
+corner sidewalk
+
+10.0
+62
+in
+O Ave & Hillside Dr
+NW
+grass to sidewalk
+
+10.1
+63
+in
+O Ave & Blanche Dr
+NW
+corner sidewalk
+
+10.3
+64
+in
+2801 O Ave
+NW
+grass to sidewalk
+
+10.4
+65
+in
+O Ave & 26th St
+NW
+corner sidewalk
+
+10.5
+66
+in
+O Ave & Highwood Dr
+NW
+grass to sidewalk
+
+10.7
+67
+in
+O Ave across from 20th St
+NW
+grass, no sidewalk
+
+10.8
+68
+in
+1725 O Ave (Milestones)
+NW
+
+concrete pad
+shelter
+11.0
+69
+in
+O Ave & 16th St
+NW
+grass to sidewalk
+
+11.1
+70
+in
+O Ave across from 13th St
+NW
+grass, no sidewalk
+
+11.3
+71
+in
+O Ave & 11th St
+NW
+grass, no sidewalk
+
+11.4
+72
+in
+O Ave & 9th St
+NW
+grass, no sidewalk
+
+11.6
+73
+in
+O Ave & Ellis Blvd
+NW
+corner sidewalk
+
+11.7
+74
+in
+Ellis Blvd & M Ave
+NW
+
+corner sidewalk
+
+11.8
+75
+in
+Ellis Blvd & L Ave
+NW
+corner sidewalk
+
+11.9
+76
+in
+Ellis Blvd & K Ave
+NW
+corner sidewalk
+
+12.0
+77
+in
+Ellis Blvd & I Ave
+NW
+grass to sidewalk
+
+12.2
+78
+in
+Ellis Blvd & G Ave
+NW
+corner sidewalk
+
+12.3
+79
+in
+F Ave & 8th St
+NW
+corner sidewalk
+
+12.5
+80
+in
+F Ave & 10th St
+NW
+corner sidewalk
+
+12.6
+81
+in
+F Ave & 13th St
+NW
+corner sidewalk
+
+12.7
+82
+in
+1500 15th St
+NW
+grass, no sidewalk
+
+12.9
+83
+in
+E Ave & 13th St (Roosevelt School)
+NW
+corner sidewalk
+
+13.0
+84
+in
+E Ave & 11th St (Abbe Center)
+NW
+concrete pad
+shelter
+13.1
+85
+in
+10th St & C Ave (Salvation Army)
+NW
+concrete pad
+shelter
+13.3
+86
+in
+10th St & B Ave
+NW
+corner sidewalk
+
+13.4
+87
+in
+10th St & A Ave
+NW
+corner sidewalk
+
+13.5
+88
+in
+903 1st Ave (Family Dollar)
+SW
+concrete pad
+shelter
+13.6
+89
+in
+1st Ave & 6th St
+SW
+corner sidewalk
+
+13.9
+90
+in
+1st Ave & 5th St
+SW
+corner sidewalk
+
+14.0
+91
+in
+1st Ave & L St
+SW
+corner sidewalk
+
+14.1
+92
+in
+1st Ave & 2nd St
+SW
+corner sidewalk
+
+14.2
+93
+in
+1st St & 2nd Ave
+SW
+corner sidewalk
+
+14.3
+94
+in
+1st St & 4th Ave
+SW
+corner sidewalk
+
+14.4
+95
+in
+1st St & 6th Ave
+SW
+corner sidewalk
+
+14.6
+96
+in
+8th Ave & 2nd St
+SE
+corner sidewalk
+
+15.1
+97
+in
+2nd St & 9th Ave (railroad tracks)
+SE
+grass to sidewalk
+
+15.2
+98
+in
+Lot 44
+SW
+concrete pad
+
+15.4

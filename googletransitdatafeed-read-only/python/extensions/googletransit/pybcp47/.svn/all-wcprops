@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1659/trunk/python/extensions/googletransit/pybcp47
+END
+testpybcp47.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1521/trunk/python/extensions/googletransit/pybcp47/testpybcp47.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1521/trunk/python/extensions/googletransit/pybcp47/__init__.py
+END
+bcp47languageparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1524/trunk/python/extensions/googletransit/pybcp47/bcp47languageparser.py
+END
+language-subtag-registry.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1659/trunk/python/extensions/googletransit/pybcp47/language-subtag-registry.txt
+END

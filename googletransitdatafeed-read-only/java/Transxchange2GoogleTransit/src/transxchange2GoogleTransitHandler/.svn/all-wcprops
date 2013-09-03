@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1671/trunk/java/Transxchange2GoogleTransit/src/transxchange2GoogleTransitHandler
+END
+TransxchangeDataAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/1642/trunk/java/Transxchange2GoogleTransit/src/transxchange2GoogleTransitHandler/TransxchangeDataAspect.java
+END
+TransxchangeCalendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1642/trunk/java/Transxchange2GoogleTransit/src/transxchange2GoogleTransitHandler/TransxchangeCalendar.java
+END
+TransxchangeCalendarDates.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1642/trunk/java/Transxchange2GoogleTransit/src/transxchange2GoogleTransitHandler/TransxchangeCalendarDates.java
+END
+NaPTANHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1641/trunk/java/Transxchange2GoogleTransit/src/transxchange2GoogleTransitHandler/NaPTANHelper.java
+END
+TransxchangeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1642/trunk/java/Transxchange2GoogleTransit/src/transxchange2GoogleTransitHandler/TransxchangeHandler.java
+END
+TransxchangeTrips.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1642/trunk/java/Transxchange2GoogleTransit/src/transxchange2GoogleTransitHandler/TransxchangeTrips.java
+END
+TransxchangeRoutes.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1642/trunk/java/Transxchange2GoogleTransit/src/transxchange2GoogleTransitHandler/TransxchangeRoutes.java
+END
+ValueList.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/1642/trunk/java/Transxchange2GoogleTransit/src/transxchange2GoogleTransitHandler/ValueList.java
+END
+TransxchangeHandlerEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1671/trunk/java/Transxchange2GoogleTransit/src/transxchange2GoogleTransitHandler/TransxchangeHandlerEngine.java
+END
+TransxchangeAgency.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1642/trunk/java/Transxchange2GoogleTransit/src/transxchange2GoogleTransitHandler/TransxchangeAgency.java
+END
+TransxchangeStopTimes.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1642/trunk/java/Transxchange2GoogleTransit/src/transxchange2GoogleTransitHandler/TransxchangeStopTimes.java
+END
+TransxchangeStops.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1670/trunk/java/Transxchange2GoogleTransit/src/transxchange2GoogleTransitHandler/TransxchangeStops.java
+END

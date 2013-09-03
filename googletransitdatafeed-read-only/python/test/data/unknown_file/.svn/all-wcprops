@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/958/trunk/python/test/data/unknown_file
+END
+trips.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/958/trunk/python/test/data/unknown_file/trips.txt
+END
+routes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/958/trunk/python/test/data/unknown_file/routes.txt
+END
+fare_attributes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/958/trunk/python/test/data/unknown_file/fare_attributes.txt
+END
+stop_times.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/958/trunk/python/test/data/unknown_file/stop_times.txt
+END
+agency.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/958/trunk/python/test/data/unknown_file/agency.txt
+END
+frecuencias.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/958/trunk/python/test/data/unknown_file/frecuencias.txt
+END
+transfers.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/958/trunk/python/test/data/unknown_file/transfers.txt
+END
+fare_rules.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/958/trunk/python/test/data/unknown_file/fare_rules.txt
+END
+stops.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/958/trunk/python/test/data/unknown_file/stops.txt
+END
+calendar.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/958/trunk/python/test/data/unknown_file/calendar.txt
+END
+calendar_dates.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/958/trunk/python/test/data/unknown_file/calendar_dates.txt
+END

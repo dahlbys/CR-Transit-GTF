@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/958/trunk/python/test/data/bad_date_format
+END
+trips.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/952/trunk/python/test/data/bad_date_format/trips.txt
+END
+routes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/952/trunk/python/test/data/bad_date_format/routes.txt
+END
+fare_attributes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/952/trunk/python/test/data/bad_date_format/fare_attributes.txt
+END
+stop_times.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/952/trunk/python/test/data/bad_date_format/stop_times.txt
+END
+agency.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/952/trunk/python/test/data/bad_date_format/agency.txt
+END
+transfers.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/952/trunk/python/test/data/bad_date_format/transfers.txt
+END
+fare_rules.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/952/trunk/python/test/data/bad_date_format/fare_rules.txt
+END
+stops.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/952/trunk/python/test/data/bad_date_format/stops.txt
+END
+calendar.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/952/trunk/python/test/data/bad_date_format/calendar.txt
+END
+calendar_dates.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/952/trunk/python/test/data/bad_date_format/calendar_dates.txt
+END

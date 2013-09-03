@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1013/trunk/python/test/data/same_short_long_name
+END
+trips.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/923/trunk/python/test/data/same_short_long_name/trips.txt
+END
+routes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/923/trunk/python/test/data/same_short_long_name/routes.txt
+END
+fare_attributes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/923/trunk/python/test/data/same_short_long_name/fare_attributes.txt
+END
+stop_times.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1013/trunk/python/test/data/same_short_long_name/stop_times.txt
+END
+agency.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/923/trunk/python/test/data/same_short_long_name/agency.txt
+END
+fare_rules.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/923/trunk/python/test/data/same_short_long_name/fare_rules.txt
+END
+stops.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/923/trunk/python/test/data/same_short_long_name/stops.txt
+END
+calendar.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/923/trunk/python/test/data/same_short_long_name/calendar.txt
+END
+frequencies.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/958/trunk/python/test/data/same_short_long_name/frequencies.txt
+END
+calendar_dates.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/923/trunk/python/test/data/same_short_long_name/calendar_dates.txt
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/1259/trunk/python/misc
+END
+import_ch_zurich.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1259/trunk/python/misc/import_ch_zurich.py
+END
+sql_loop.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/971/trunk/python/misc/sql_loop.py
+END
+find_pytz_transition_times.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1141/trunk/python/misc/find_pytz_transition_times.py
+END
+traceplus.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/970/trunk/python/misc/traceplus.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/970/trunk/python/misc/README
+END

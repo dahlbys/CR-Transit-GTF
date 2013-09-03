@@ -1,0 +1,300 @@
+10
+
+dir
+1727
+http://googletransitdatafeed.googlecode.com/svn/trunk/python/test/data
+http://googletransitdatafeed.googlecode.com/svn
+
+
+
+2012-06-28T15:00:11.919564Z
+1681
+bdferris@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+705c8f7f-ad29-0410-9695-93dd3b14b492
+
+duplicate_stop
+dir
+
+missing_stop_times
+dir
+
+googletransit
+dir
+
+bad_eol.zip
+file
+
+
+
+
+2012-10-25T22:21:00.000000Z
+8a40c74065f0cbf931ff29670e2fe8ab
+2008-12-17T14:15:21.361794Z
+958
+clancy.childs
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3138
+
+invalid_route_agency
+dir
+
+only_calendar_dates
+dir
+
+extra_row_cells
+dir
+
+missing_weekday_column
+dir
+
+missing_departure_time
+dir
+
+missing_calendar
+dir
+
+duplicate_schedule_id
+dir
+
+utf16
+dir
+
+unused_stop
+dir
+
+contains_null
+dir
+
+unknown_format.zip
+file
+
+
+
+
+2012-10-25T22:21:00.000000Z
+8d8e552977dc4974bf99b4d085a79d7a
+2007-04-21T05:45:07.470994Z
+73
+joe.hughes.code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20
+
+missing_endpoint_times
+dir
+
+one_line.kml
+file
+
+
+
+
+2012-10-25T22:21:00.000000Z
+88d5120fc59e2b5942c0388032ad11f7
+2007-06-11T22:26:50.419748Z
+356
+araschepkin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+462
+
+good_feed
+dir
+
+flatten_feed
+dir
+
+missing_row_cells
+dir
+
+filter_unusual_trips
+dir
+
+same_short_long_name
+dir
+
+utf8bom
+dir
+
+missing_column
+dir
+
+missing_trips
+dir
+
+bad_date_format
+dir
+
+unrecognized_columns
+dir
+
+bad_utf8
+dir
+
+empty_file
+dir
+
+unknown_file
+dir
+
+missing_agency
+dir
+
+negative_stop_sequence
+dir
+
+missing_stops
+dir
+
+undefined_stop
+dir
+
+duplicate_stop_sequence
+dir
+
+repeated_route_name
+dir
+
+one_stop.kml
+file
+
+
+
+
+2012-10-25T22:21:00.000000Z
+443096a627f2235b534a0310d1256102
+2007-04-27T23:15:24.728642Z
+199
+araschepkin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+365
+
+missing_routes
+dir
+
+good_feed.zip
+file
+
+
+
+
+2012-10-25T22:21:00.000000Z
+12baf96fe5a7b44da040f23cdd1107b4
+2009-09-21T18:32:20.231933Z
+1106
+tom.brown.code
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3397
+

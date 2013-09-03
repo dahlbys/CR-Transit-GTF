@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1593/trunk/java/Transxchange2GoogleTransit/ValidatorFiles/ref4/20040101
+END
+trips.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1593/trunk/java/Transxchange2GoogleTransit/ValidatorFiles/ref4/20040101/trips.txt
+END
+routes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/923/trunk/java/Transxchange2GoogleTransit/ValidatorFiles/ref4/20040101/routes.txt
+END
+stop_times.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/923/trunk/java/Transxchange2GoogleTransit/ValidatorFiles/ref4/20040101/stop_times.txt
+END
+agency.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1560/trunk/java/Transxchange2GoogleTransit/ValidatorFiles/ref4/20040101/agency.txt
+END
+stops.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/923/trunk/java/Transxchange2GoogleTransit/ValidatorFiles/ref4/20040101/stops.txt
+END
+calendar.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/923/trunk/java/Transxchange2GoogleTransit/ValidatorFiles/ref4/20040101/calendar.txt
+END
+calendar_dates.txt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1033/trunk/java/Transxchange2GoogleTransit/ValidatorFiles/ref4/20040101/calendar_dates.txt
+END

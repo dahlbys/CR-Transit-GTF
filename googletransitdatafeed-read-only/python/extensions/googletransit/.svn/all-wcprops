@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1659/trunk/python/extensions/googletransit
+END
+extension_util.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1521/trunk/python/extensions/googletransit/extension_util.py
+END
+setup_extension.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1601/trunk/python/extensions/googletransit/setup_extension.py
+END
+route.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1509/trunk/python/extensions/googletransit/route.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1601/trunk/python/extensions/googletransit/__init__.py
+END
+fareattribute.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1509/trunk/python/extensions/googletransit/fareattribute.py
+END
+stop.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1650/trunk/python/extensions/googletransit/stop.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1601/trunk/python/extensions/googletransit/README
+END
+agency.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1598/trunk/python/extensions/googletransit/agency.py
+END

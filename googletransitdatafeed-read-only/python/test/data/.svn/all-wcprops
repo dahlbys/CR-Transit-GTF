@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1681/trunk/python/test/data
+END
+bad_eol.zip
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/958/trunk/python/test/data/bad_eol.zip
+END
+unknown_format.zip
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/923/trunk/python/test/data/unknown_format.zip
+END
+one_stop.kml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/923/trunk/python/test/data/one_stop.kml
+END
+one_line.kml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/923/trunk/python/test/data/one_line.kml
+END
+good_feed.zip
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1106/trunk/python/test/data/good_feed.zip
+END

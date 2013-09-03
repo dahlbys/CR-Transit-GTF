@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/958/trunk/python/test/data/negative_stop_sequence
+END
+trips.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/923/trunk/python/test/data/negative_stop_sequence/trips.txt
+END
+routes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/923/trunk/python/test/data/negative_stop_sequence/routes.txt
+END
+fare_attributes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/923/trunk/python/test/data/negative_stop_sequence/fare_attributes.txt
+END
+stop_times.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/923/trunk/python/test/data/negative_stop_sequence/stop_times.txt
+END
+agency.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/923/trunk/python/test/data/negative_stop_sequence/agency.txt
+END
+fare_rules.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/923/trunk/python/test/data/negative_stop_sequence/fare_rules.txt
+END
+stops.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/923/trunk/python/test/data/negative_stop_sequence/stops.txt
+END
+calendar.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/923/trunk/python/test/data/negative_stop_sequence/calendar.txt
+END
+frequencies.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/958/trunk/python/test/data/negative_stop_sequence/frequencies.txt
+END
+calendar_dates.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/923/trunk/python/test/data/negative_stop_sequence/calendar_dates.txt
+END

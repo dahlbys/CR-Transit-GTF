@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1624/trunk/python/test/data/googletransit/good_feed
+END
+trips.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1498/trunk/python/test/data/googletransit/good_feed/trips.txt
+END
+routes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1498/trunk/python/test/data/googletransit/good_feed/routes.txt
+END
+fare_attributes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1498/trunk/python/test/data/googletransit/good_feed/fare_attributes.txt
+END
+stop_times.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1498/trunk/python/test/data/googletransit/good_feed/stop_times.txt
+END
+agency.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1598/trunk/python/test/data/googletransit/good_feed/agency.txt
+END
+transfers.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1498/trunk/python/test/data/googletransit/good_feed/transfers.txt
+END
+fare_rules.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1498/trunk/python/test/data/googletransit/good_feed/fare_rules.txt
+END
+stops.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1498/trunk/python/test/data/googletransit/good_feed/stops.txt
+END
+calendar.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1624/trunk/python/test/data/googletransit/good_feed/calendar.txt
+END
+frequencies.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1498/trunk/python/test/data/googletransit/good_feed/frequencies.txt
+END
+calendar_dates.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1498/trunk/python/test/data/googletransit/good_feed/calendar_dates.txt
+END
+feed_info.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1498/trunk/python/test/data/googletransit/good_feed/feed_info.txt
+END

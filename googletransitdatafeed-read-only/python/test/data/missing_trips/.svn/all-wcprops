@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1013/trunk/python/test/data/missing_trips
+END
+routes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/923/trunk/python/test/data/missing_trips/routes.txt
+END
+stop_times.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1013/trunk/python/test/data/missing_trips/stop_times.txt
+END
+agency.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/923/trunk/python/test/data/missing_trips/agency.txt
+END
+stops.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/923/trunk/python/test/data/missing_trips/stops.txt
+END
+calendar.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/923/trunk/python/test/data/missing_trips/calendar.txt
+END
+calendar_dates.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/923/trunk/python/test/data/missing_trips/calendar_dates.txt
+END

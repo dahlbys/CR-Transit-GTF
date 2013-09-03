@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1624/trunk/python/test/data/good_feed
+END
+trips.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/923/trunk/python/test/data/good_feed/trips.txt
+END
+routes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/923/trunk/python/test/data/good_feed/routes.txt
+END
+fare_attributes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/923/trunk/python/test/data/good_feed/fare_attributes.txt
+END
+stop_times.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/923/trunk/python/test/data/good_feed/stop_times.txt
+END
+agency.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/923/trunk/python/test/data/good_feed/agency.txt
+END
+transfers.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/923/trunk/python/test/data/good_feed/transfers.txt
+END
+fare_rules.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/923/trunk/python/test/data/good_feed/fare_rules.txt
+END
+stops.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/923/trunk/python/test/data/good_feed/stops.txt
+END
+calendar.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1624/trunk/python/test/data/good_feed/calendar.txt
+END
+frequencies.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/958/trunk/python/test/data/good_feed/frequencies.txt
+END
+calendar_dates.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/923/trunk/python/test/data/good_feed/calendar_dates.txt
+END

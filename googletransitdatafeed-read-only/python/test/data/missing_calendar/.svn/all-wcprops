@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1013/trunk/python/test/data/missing_calendar
+END
+trips.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/923/trunk/python/test/data/missing_calendar/trips.txt
+END
+routes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/923/trunk/python/test/data/missing_calendar/routes.txt
+END
+fare_attributes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/923/trunk/python/test/data/missing_calendar/fare_attributes.txt
+END
+stop_times.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1013/trunk/python/test/data/missing_calendar/stop_times.txt
+END
+agency.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/923/trunk/python/test/data/missing_calendar/agency.txt
+END
+fare_rules.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/923/trunk/python/test/data/missing_calendar/fare_rules.txt
+END
+stops.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/923/trunk/python/test/data/missing_calendar/stops.txt
+END
+frequencies.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/958/trunk/python/test/data/missing_calendar/frequencies.txt
+END

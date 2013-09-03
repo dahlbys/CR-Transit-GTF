@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/925/trunk/python/test/data/flatten_feed
+END
+trips.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/925/trunk/python/test/data/flatten_feed/trips.txt
+END
+routes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/923/trunk/python/test/data/flatten_feed/routes.txt
+END
+fare_attributes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/923/trunk/python/test/data/flatten_feed/fare_attributes.txt
+END
+shapes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/923/trunk/python/test/data/flatten_feed/shapes.txt
+END
+stop_times.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/923/trunk/python/test/data/flatten_feed/stop_times.txt
+END
+agency.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/923/trunk/python/test/data/flatten_feed/agency.txt
+END
+stops.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/923/trunk/python/test/data/flatten_feed/stops.txt
+END
+calendar.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/923/trunk/python/test/data/flatten_feed/calendar.txt
+END
+calendar_dates.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/925/trunk/python/test/data/flatten_feed/calendar_dates.txt
+END
